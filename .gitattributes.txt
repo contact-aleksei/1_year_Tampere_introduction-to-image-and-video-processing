@@ -1,3 +1,0 @@
-*.rtf linguist-detectable=false
-*.pdf linguist-detectable=false
-*.m linguist-detectable=true
